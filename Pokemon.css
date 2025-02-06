@@ -17,18 +17,17 @@ padding-bottom: 5px;
   }
 
   .B {
-
-
     border: 1px solid #F8A623;
     background-color: #F8A623;
     border-radius: 0px;
     border-top: 10px;
     font-size:xx-large;
+
   }
 
   .Div1 {
 box-sizing: content-box;
-padding-left: 100px;
+padding-left: 250px;
 
     border: 1px solid #572DD6;
     background-color: #572DD6;
@@ -45,6 +44,11 @@ padding-left: 100px;
     margin-top: 10px;
     margin-bottom: 10px;
     border: 1px solid #dddcdf;
-    border-width: 10px;
+    border-width: 150px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom-width: 110px;
+    border-top-width: 110px;
+    border-left-width: 500;
     background-color: #dddcdf;
   }
